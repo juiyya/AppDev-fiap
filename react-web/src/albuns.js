@@ -1,0 +1,123 @@
+const albuns = [
+  {
+    id: "1",
+    titulo: "Richard D. James Album",
+    artista: "Aphex Twin",
+    ano: "1996",
+    tempo: "32min 51s",
+    genero: "IDM",
+    capa: "./assets/albums/Richard_D_James_Album.jpg"
+  },
+  {
+    id: "2",
+    titulo: "Goo",
+    artista: "Sonic Youth",
+    ano: "1990",
+    tempo: "49min 23s",
+    genero: "Noise Rock",
+    capa: "./assets/albums/Sonicyouthgoo.png"
+  },
+  {
+    id: "3",
+    titulo: "Kids See Ghosts",
+    artista: "Kanye West, Kid Cudi",
+    ano: "2018",
+    tempo: "23min 50s",
+    genero: "Hip-Hop",
+    capa: "./assets/albums/Kids_See_Ghosts_Cover.png"
+  },
+  {
+    id: "7",
+    titulo: "Debut",
+    artista: "Björk",
+    ano: "1993",
+    tempo: "48min 31s",
+    genero: "Eletrônico / Alternativo",
+    capa: "./assets/albums/debut.png",
+  },
+  {
+    id: "4",
+    titulo: "But You Caint Use My Phone",
+    artista: "Erykah Badu",
+    ano: "2015",
+    tempo: "36min 11s",
+    genero: "R&B / Soul",
+    capa: "./assets/albums/but-you-caint-use-my-phone.jpg",
+  },
+  {
+    id: "5",
+    titulo: "A Paixão Tem Memória",
+    artista: "Alcione",
+    ano: "2001",
+    tempo: "58min 36s",
+    genero: "Samba / MPB",
+    capa: "./assets/albums/a-paixao-tem-memoria.jpg",
+  },
+  {
+    id: "6",
+    titulo: "The Velvet Underground & Nico",
+    artista: "The Velvet Underground & Nico",
+    ano: "1967",
+    tempo: "48min 57s",
+    genero: "Rock",
+    capa: "./assets/albums/the-velvet-underground-and-nico.jpg",
+  },
+  {
+    id: "12",
+    titulo: "Follow the Leader",
+    artista: "Korn",
+    ano: "1998",
+    tempo: "1h 7min",
+    genero: "Nu Metal",
+    capa: "./assets/albums/follow-the-leader.png",
+  },
+  {
+    id: "8",
+    titulo: "Nothing's About to Happen to Me",
+    artista: "Mitski",
+    ano: "2026",
+    tempo: "34min 27s",
+    genero: "Americana / Art Pop",
+    capa: "./assets/albums/nothings-about-to-happen-to-me.jpg",
+  },
+  {
+    id: "9",
+    titulo: "Four-Calendar Café",
+    artista: "Cocteau Twins",
+    ano: "1993",
+    tempo: "41min 7s",
+    genero: "Dream Pop",
+    capa: "./assets/albums/four-calendar-cafe.jpg",
+  },
+  {
+    id: "10",
+    titulo: "Friday Night Funkin, Vol. 1 (Original Game Soundtrack)",
+    artista: "Funkin' Sound Team",
+    ano: "2020",
+    tempo: "51min 56s",
+    genero: "Eletrônico / Hip Hop",
+    capa: "./assets/albums/funkin-sound-team.png",
+  },
+  {
+    id: "11",
+    titulo: "Gal Costa",
+    artista: "Gal Costa",
+    ano: "1969",
+    tempo: "35min 17s",
+    genero: "MPB / Tropicália",
+    capa: "./assets/albums/gal-costa.jpg",
+  },
+  {
+    id: "13",
+    titulo: "The Virgin Suicides",
+    artista: "Air",
+    ano: "2000",
+    tempo: "40min 32s",
+    genero: "Pop",
+    capa: "./assets/albums/playground-love.png", // <3
+  },
+
+];
+
+
+export default albuns;
