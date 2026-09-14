@@ -1,7 +1,3 @@
-# meus álbuns
-
-catálogo dos meus 13 álbuns favoritos feito com react para web, javascript e css. o vite inicia o ambiente de desenvolvimento e gera a versão de produção.
-
 ## como testar
 
 com o node.js instalado, abra o terminal dentro desta pasta:
